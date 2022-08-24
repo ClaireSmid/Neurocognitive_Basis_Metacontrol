@@ -27,5 +27,5 @@ The data from the sequential decison making task and the executive function task
 
   Step 2. Running the cortical thickness analyses
   
-Cortical thickness analysis was conducted using SurfStat on smoothed data, prior to this structural data was ran through FreeSurfer, visually inspected and corrected if needed. 
+Cortical thickness analysis was conducted using SurfStat on smoothed data, prior to this structural data was ran through FreeSurfer, visually inspected and corrected if needed. The SurfStat package can be downloaded from here: https://www.math.mcgill.ca/keith/surfstat/
 
