@@ -20,4 +20,4 @@ The file 'MBMF_EF_BehavioralData.csv' contains all data across time points.
 The imputation procedure is included in the analysis folder in the R script. The data from the second time point was not further used for the current paper, and only the data from the first time point analysed.
 
 ## FreeSurfer
-This folder contains the final cortical thickness measures used in this paper. 
+This folder contains the final cortical thickness measures used in this paper. The folder 'fsaverage5' has the common template used for the analyses. 
