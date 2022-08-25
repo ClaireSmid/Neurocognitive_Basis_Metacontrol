@@ -21,3 +21,5 @@ The imputation procedure is included in the analysis folder in the R script. The
 
 ## FreeSurfer
 This folder contains the final cortical thickness measures used in this paper. The folder 'fsaverage5' has the common template used for the analyses. 
+
+The file 'MBMF_CorticalThicknessAnalysis_Data.csv' is used for the behavioral measures for the surfstat analysis, and includes the final imputed data.
