@@ -9,7 +9,10 @@ The file 'DMTask_Performance.csv' contains the performance measure, which was a 
 
 To obtain behavioral measures of model-free and model-based decision making based on stay behavior, a regression approach was used (similar as in Kool et al. 2016 and Smid et al. 2022), the code for this is included in the analysis folder. 
 
-## Model-free and model based measures and executive functions
+## Model-free and model based measures and executive functions (final imputed dataset)
+The file 'Imputed_Data_11Jul22.csv' contains the final behavioral measures used in the analyses reported in the paper. This file has imputed data, and can be recreated by using the R script in the analyses folder. This file was created by using the file in the section below.
+
+## Model-free and model based measures and executive functions (pre-imputed dataset)
 Data was collected as part of a larger psychological battery (e.g. alongside the data from the executive function tasks), and as part of a training paradigm (three testing sessions). Due to Covid (from March 2020 until Jul 2021) data collection of the sequential decision making task was halted, leading to a much smaller sample at the second testing session and no data for the final (third) time point. For the current paper, only data at the first timepoint was analysed, however, data from the first and second session were imputed to add one more participant to the pre-training timepoint who had completed the sequential task at the second session but was unable to complete it at the first session.
 
 The file 'MBMF_EF_BehavioralData.csv' contains all data across time points. 
