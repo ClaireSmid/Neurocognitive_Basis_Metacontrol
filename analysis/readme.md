@@ -3,6 +3,9 @@
 ## Reinforcement learning models
 The folder 'CompModel' contains the scripts to run the reinforcement learning models. The wrapper function assumes a folder structure (e.g. the likelihood models organised in a folder titled 'helper_functions') to be able to run as is. 
 
+## Behavioral analysis
+The file 'Imputation_Procedure.R' runs the imputation method for the final data used in the paper. The file 'Behavioral_Analysis.R' runs the main behavioral analyses reported in the paper. 
+
 ## Cortical thickness analysis
 the matlab file contains the analysis for cortical thickness included in the paper. The analysis uses the surfstat Matlab package (link in main folder).
 
