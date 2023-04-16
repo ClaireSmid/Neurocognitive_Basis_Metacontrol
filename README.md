@@ -7,6 +7,8 @@ Update 24/08/2022: added data files, analysis files and linked to the surfstat p
 
 Update 02/09/2022: The Developmental Cognitive Neuroscience Journal does not allow supplemental material, so I have included additional information on the executive function tasks here, which are not directly relevant to the main manuscript.
 
+Update 17/04/2023: Uploaded latest version of supplemental material. 
+
 This is the main folder to replicate the analyses conducted in the paper: Neurocognitive underpinnings of model-based decision making and metacontrol in childhood. Preprint will be accessible on bioRxiv shortly.
 
 The computational modelling code is nearly identical to the one used in https://github.com/ClaireSmid/Model-based_Model-free_Developmental.
