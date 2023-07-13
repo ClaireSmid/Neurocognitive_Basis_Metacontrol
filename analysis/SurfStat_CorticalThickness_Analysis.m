@@ -1,5 +1,7 @@
 %% Set paths and directories
+% update on Jul 13 2023 by C Smid for Z Li
 
+% Step 1: Navigate to the corticalthickness folder on your Desktop from within Matlab 
 % add surfstat toolbox
 addpath('surfstat')
 
@@ -7,9 +9,9 @@ addpath('surfstat')
 addpath('export_fig')
 
 % directories for data
-fsDir = 'data/fsaverage5_folder/'; % fsaverage5
+fsDir = 'fsaverage5_folder/'; % fsaverage5
 % T0 data
-dataDir = 'data/FreeSurfer/'; % my data
+T0dataDir = 'FS_registered_Clean_T0/'; % the T0 data
 
 %% Load surfaces for fsaverage5
 
